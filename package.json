@@ -1,0 +1,30 @@
+{
+  "name": "touch-cursor",
+  "version": "1.0.0",
+  "description": "is a mobile like cursor",
+  "main": "index.js",
+  "files": [
+    "touch-cursor.png"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fibo/touch-cursor.git"
+  },
+  "keywords": [
+    "cursor",
+    "mobile",
+    "png"
+  ],
+  "author": {
+    "name": "Gianluca Casati",
+    "url": "http://g14n.info"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fibo/touch-cursor/issues"
+  },
+  "homepage": "https://github.com/fibo/touch-cursor#readme"
+}
